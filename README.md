@@ -29,8 +29,8 @@ I trained a bit before the piscine by trying to do the first exercises but it wa
 - C05 ![](https://geps.dev/progress/80)
 - C06 ![](https://geps.dev/progress/70)
 - C07 ![](https://geps.dev/progress/60)
-- C08 ![](https://geps.dev/progress/70) (ex05 KO by moulinette for -> does not compile)
-- C09 : not evaluated (but code should work)
+- C08 ![](https://geps.dev/progress/70) *(ex05 KO by moulinette for -> does not compile)*
+- C09 : not evaluated *(but code should work)*
 
 <h3 align="center"> 🤝 <strong>Rush projects (group projects)</strong> </h3>
 
