@@ -5,7 +5,7 @@
 
 I validated all projects from Shell00 to C08.
 
-## ⚙️ **What is the piscine**
+## ⚙️ **What is the piscine?**
 The piscine of school 42 is a <ins>1 month exam</ins> to discover C language, test your skills in programming/unix/**coding**, test your **logic** and, most importantly, to see if the school fits you and **if you fit the school**.
 
 ## ➡️ **My background**
