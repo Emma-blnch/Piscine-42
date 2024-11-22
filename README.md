@@ -53,6 +53,6 @@ I trained a bit before the piscine by trying to do the first exercises but it wa
 - [x] And a lot more...
 
 ## ♻️ **Disclaimer**
-If you want to do the piscine yourself, you can find the subjects online but, also, the answers. I strongly suggest you do not copy this answers without thinking. Learning to code is making mistakes and learning from it. You will never succeed if you just copy what others have already done.
+If you want to do the piscine yourself, you can find the subjects online but, also, the answers. I strongly suggest you do not copy these answers without thinking. Learning to code is making mistakes and learning from it. You will never succeed if you just copy what others have already done.
 
 But if you want to practice before the Piscine or just learn C, you are welcome to use my code! 🙂
