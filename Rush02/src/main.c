@@ -6,7 +6,7 @@
 /*   By: kisingh <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/06 17:16:42 by kisingh           #+#    #+#             */
-/*   Updated: 2024/10/06 18:08:37 by eblancha         ###   ########.fr       */
+/*   Updated: 2024/10/06 21:37:13 by kisingh          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,8 +31,11 @@ int	main(int argc, char **argv)
 {
 	char	*dict;
 	t_pair	*pairs;
+	int		check;
 
-	checkstr(argc, argv);
+	check = checkstr(argc, argv);
+	if (check != 0)
+		return (1);
 	if (argc == 3)
 		dict = read_file(argv[1]);
 	else
